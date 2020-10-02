@@ -1,0 +1,56 @@
+body {
+    text-align: center;
+    
+
+}
+
+h1 {
+
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+
+}
+
+#app {
+    width: 70%;
+    height: 800px;
+    background-color: aliceblue;
+
+}
+
+
+
+#game{
+    width: 50%;
+    height: 500px;
+    align-items: center;
+    margin-left: 200px;
+    
+    background-color:lightcoral;
+
+}
+#Chatbot{
+    width: 100%;
+    height: 800px;
+    background-color:lightcoral;
+
+}
+
+
+}
+
+img {
+transition: transform 10s;
+}
+
+img:hover {
+    transform: scale(1.2);
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
